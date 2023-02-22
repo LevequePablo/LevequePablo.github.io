@@ -12,5 +12,5 @@ open.addEventListener('click', () => {
 
 
   document.getElementById("feedback").addEventListener("click", function () {
-    alert("gracias por tu feedback")
+    alert("Gracias por tu feedback.")
 });
