@@ -11,6 +11,6 @@ open.addEventListener('click', () => {
   });
 
 
-  document.getElementById("feedback").addEventListener("click", function (aras) => {
+  document.getElementById("feedback").addEventListener("click", function () {
     alert("gracias por tu feedback")
 });
